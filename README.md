@@ -1,8 +1,8 @@
-# Flutter
+# Flutter & Dart
 
 ## PT-BR
 
-Este repositório está todo código aprendido no curso de Flutter e Dart da Academind na Udemy.
+Este repositório está todo código aprendido no curso de Flutter e Dart da Academind na [Documentação](https://www.udemy.com/course/curso-flutter/?couponCode=THANKSLEARNER24).
 
 ## ES-ES
 
